@@ -23,6 +23,5 @@
 
 ## Projetos:
 Veja os projetos feitos por mim:
-
-* **Sistema de Cadastro de Empresa com API Via CEP:** https://github.com/matheussacardoso/Laravel2022/tree/master
-* **Site de Análise de Links Maliciosos com API VirusTotal:** https://github.com/matheussacardoso/ANTIGOLPE
+* **Sistema de Cadastro de Empresa com API Via CEP: ** https://github.com/matheussacardoso/Laravel2022/tree/master
+* **Site de Análise de Links Maliciosos com API VirusTotal: ** https://github.com/matheussacardoso/ANTIGOLPE

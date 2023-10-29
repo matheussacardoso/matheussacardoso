@@ -1,8 +1,8 @@
-👋 Hi, my name is Matheus. I'm 19 years old and undergraduate student of Computer Engineering. My passion is learn and discover new things and how can i apply to my projects.
+👋 Hi, my name is Matheus. I'm 21 years old and undergraduate student of Computer Engineering. My passion is learn and discover new things and how can i apply to my projects.
 
-👀 I’m interested in back-end systems and problems.  
+👀 I’m interested in back-end systems, data analysis and automation.  
 
-🌱 I’m currently learning Java, C and PowerBI.
+🌱 I’m currently learning Java, C, R and Power BI.
 
 📫 How to reach me: You can send me an email for matheussa20@gmail.com
 

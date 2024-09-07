@@ -1,4 +1,4 @@
-👋 Hi, my name is Matheus. I'm 21 years old and undergraduate student of Computer Engineering. My passion is learn and discover new things and how can i apply to my projects.
+👋 Hi, my name is Matheus. I'm 22 years old and undergraduate student of Computer Engineering. My passion is learn and discover new things and how can i apply to my projects.
 
 👀 I’m interested in back-end systems, data analysis and automation.  
 
@@ -19,7 +19,8 @@
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## Projetos:
-Veja os projetos feitos por mim:
-* **Sistema de Cadastro de Empresa com API Via CEP:** https://github.com/matheussacardoso/Laravel2022/tree/master
-* **Site de Análise de Links Maliciosos com API VirusTotal:** https://github.com/matheussacardoso/ANTIGOLPE
+## Projects:
+* **U.S. Economic Indicators Dashboard: Real-Time Data and Insights:** https://github.com/matheussacardoso/USA_INDICATORS
+* **Brazil Economic Indicators Dashboard: Real-Time Data and Insights:** https://github.com/matheussacardoso/BRASIL_MACRO
+* **Malicious Link Analysis Platform Powered by the VirusTotal API:** https://github.com/matheussacardoso/ANTIGOLPE
+* **Company Registration System with ViaCEP API Integration** https://github.com/matheussacardoso/Laravel2022/tree/master
